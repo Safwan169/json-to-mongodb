@@ -1,0 +1,15 @@
+{
+  "name": "ecoweb-atlas-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "import": "node --env-file=.env import.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongodb": "^7.7.0"
+  }
+}
